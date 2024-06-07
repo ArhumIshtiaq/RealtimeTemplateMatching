@@ -1,4 +1,4 @@
-# Special CNIC Recognition System
+# RealtimeTemplateMatching - Special CNIC Recognition System
 
 This project demonstrates a real-time system for recognizing a specific template (e.g., a special CNIC) in a video stream using OpenCV. The system leverages the SIFT (Scale-Invariant Feature Transform) algorithm for feature detection and FLANN (Fast Library for Approximate Nearest Neighbors) for matching.
 
